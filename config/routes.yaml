@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\ProductController::soap
+
+product_soap:
+    path: /product/soap
+    controller: App\Controller\ProductController::soap
